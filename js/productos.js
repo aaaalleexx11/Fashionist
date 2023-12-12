@@ -1,102 +1,102 @@
 let productos = [
     {
         id: 1234234212,
-        nombre: "Reloj Plateado Saint Lorient",
-        descripcion: "Elegante reloj plateado con detalles refinados de la marca Saint Lorient. Perfecto para ocasiones formales o casuales, este reloj combina estilo y funcionalidad con su diseño sofisticado.",
-        descripcion_corta: "Reloj de pulsera plateado, perfecto para eventos formales o casuales. Marca: Saint Lorient.",
-        categoria: "Relojes",
+        nombre: "LED Foco Philips LEDH8H11H16",
+        descripcion: "Foco LED de alta calidad de la marca Philips, ofrece iluminación eficiente y duradera para tu vehículo.",
+        descripcion_corta: "Foco LED de Philips para iluminación vehicular.",
+        categoria: "Accesorios para Automóviles",
         precio: 150.00,
         stock: 100,
-        imagen: "img/watch-1.png"
+        imagen: "img/img1.png"
     },
     {
         id: 267678678856,
-        nombre: "Camisa Casual Gris",
-        descripcion: "Camisa casual de color gris, ideal para un look relajado y cómodo. Fabricada con materiales de alta calidad para brindar comodidad durante todo el día.",
-        descripcion_corta: "Camisa casual en tono gris, para un estilo relajado y cómodo en cualquier ocasión.",
-        categoria: "Ropa",
+        nombre: "Balatas de Ceramica Duralast MKD600",
+        descripcion: "Balatas de cerámica Duralast MKD600 para un rendimiento de frenado confiable y duradero.",
+        descripcion_corta: "Balatas de cerámica Duralast MKD600 para frenos.",
+        categoria: "Accesorios para Automóviles",
         precio: 65.00,
         stock: 220,
-        imagen: "img/shirt-2.png"
+        imagen: "img/img2.png"
     },
     {
         id: 37896342452,
-        nombre: "Camisa Formal Hueso",
-        descripcion: "Camisa formal de color hueso confeccionada con tela 100% de algodón. Su calidad y ajuste te brindarán comodidad en eventos formales.",
-        descripcion_corta: "Camisa formal en tono hueso, confeccionada con tela de alta calidad para eventos formales.",
-        categoria: "Ropa",
+        nombre: "Rotor de Freno Duralast C-DL31340",
+        descripcion: "Rotor de freno Duralast C-DL31340 para un frenado óptimo y seguro en tu vehículo.",
+        descripcion_corta: "Rotor de freno Duralast C-DL31340.",
+        categoria: "Accesorios para Automóviles",
         precio: 90.00,
         stock: 450,
-        imagen: "img/shirt-3.png"
+        imagen: "img/img3.png"
     },
     {
         id: 401241219248,
-        nombre: "Sunny Lentes deportivos",
-        descripcion: "Lentes deportivos Sunny ideales para actividades al aire libre. Ofrecen protección y estilo para tus ojos mientras practicas deportes.",
-        descripcion_corta: "Lentes deportivos Sunny para actividades al aire libre, ofrecen protección y estilo.",
-        categoria: "Lentes",
+        nombre: "Bujia de Iridio Autolite Ultra AI3922",
+        descripcion: "Bujía de iridio Autolite Ultra AI3922 para un encendido eficiente y potente del motor.",
+        descripcion_corta: "Bujía de iridio Autolite Ultra AI3922.",
+        categoria: "Accesorios para Automóviles",
         precio: 25.00,
         stock: 82,
-        imagen: "img/sunglass-6.png"
+        imagen: "img/img4.png"
     },
     {
         id: 5234132423498,
-        nombre: "Sunny Lentes Aviador",
-        descripcion: "Lentes estilo aviador de la marca Sunny, perfectos para un look clásico y a la moda. Protegen tus ojos con estilo en cualquier ocasión.",
-        descripcion_corta: "Lentes estilo aviador de la marca Sunny, ideales para un look clásico y moderno.",
-        categoria: "Lentes",
+        nombre: "Alternador Duralast DL13380-7S",
+        descripcion: "Alternador Duralast DL13380-7S para generar energía confiable en tu vehículo.",
+        descripcion_corta: "Alternador Duralast DL13380-7S.",
+        categoria: "Accesorios para Automóviles",
         precio: 30.00,
         stock: 25,
-        imagen: "img/sunglass-5.png"
+        imagen: "img/img5.png"
     },
     {
         id: 6023482342381,
-        nombre: "Camisa Formal Salmón",
-        descripcion: "Camisa formal de color salmón, confeccionada con tejidos de alta calidad para brindar comodidad y estilo en eventos formales.",
-        descripcion_corta: "Camisa formal en tono salmón, confeccionada con tejidos de alta calidad para eventos formales.",
-        categoria: "Ropa",
+        nombre: "STP Filtro de Aceite SL8712",
+        descripcion: "Filtro de aceite STP SL8712 para mantener el motor limpio y protegido.",
+        descripcion_corta: "Filtro de aceite STP SL8712.",
+        categoria: "Accesorios para Automóviles",
         precio: 65.00,
         stock: 810,
-        imagen: "img/shirt-1.png"
+        imagen: "img/img6.png"
     },
     {
         id: 71121235845,
-        nombre: "Camisa diseño Gris y Negro",
-        descripcion: "Camisa con diseño en tonos gris y negro. Estilo moderno y cómodo para diversas ocasiones.",
-        descripcion_corta: "Camisa con diseño en tonos gris y negro, estilo moderno para diferentes ocasiones.",
-        categoria: "Ropa",
+        nombre: "Duralast Loaded Ensamble - Amortiguador LS34-85491B",
+        descripcion: "Ensamble de amortiguador Duralast Loaded LS34-85491B para una conducción suave y segura.",
+        descripcion_corta: "Ensamble de amortiguador Duralast Loaded LS34-85491B.",
+        categoria: "Accesorios para Automóviles",
         precio: 85.00,
         stock: 30,
-        imagen: "img/shirt-5.png"
+        imagen: "img/img7.png"
     },
     {
         id: 9232734827347,
-        nombre: "Reloj Oro Frointbiu",
-        descripcion: "Reloj de lujo con detalles en oro de la marca Frointbiu. Elegancia y estilo para cualquier ocasión.",
-        descripcion_corta: "Reloj de lujo con detalles en oro, elegancia para todo momento. Marca: Frointbiu.",
-        categoria: "Relojes",
+        nombre: "Duralast Banda 660K6",
+        descripcion: "Banda Duralast 660K6 para un funcionamiento eficiente del motor.",
+        descripcion_corta: "Banda Duralast 660K6.",
+        categoria: "Accesorios para Automóviles",
         precio: 130.00,
         stock: 78,
-        imagen: "img/watch-2.png"
+        imagen: "img/img8.png"
     },
     {
         id: 9234823423,
-        nombre: "Reloj Oro Rosado",
-        descripcion: "Reloj de tono oro rosado con diseño exclusivo. Aporta sofisticación y distinción a tu estilo.",
-        descripcion_corta: "Reloj de tono oro rosado con diseño exclusivo para un toque sofisticado.",
-        categoria: "Relojes",
+        nombre: "Duralast Bobina de Encendido C1149",
+        descripcion: "Bobina de encendido Duralast C1149 para un encendido confiable del motor.",
+        descripcion_corta: "Bobina de encendido Duralast C1149.",
+        categoria: "Accesorios para Automóviles",
         precio: 220.00,
         stock: 24,
-        imagen: "img/watch-3.png"
+        imagen: "img/img9.png"
     },
     {
         id: 10324234234,
-        nombre: "Reloj Platino Reyno",
-        descripcion: "Reloj elegante de platino de la línea Reyno. Calidad y estilo para los amantes de los relojes de lujo.",
-        descripcion_corta: "Reloj elegante de platino de la línea Reyno, para amantes de la elegancia y calidad.",
-        categoria: "Relojes",
+        nombre: "Duralast Terminal de Bateria Poste Superior DL00316",
+        descripcion: "Terminal de batería Duralast DL00316 para una conexión segura y confiable.",
+        descripcion_corta: "Terminal de batería Duralast DL00316.",
+        categoria: "Accesorios para Automóviles",
         precio: 190.00,
         stock: 600,
-        imagen: "img/watch-4.png"
+        imagen: "img/img10.png"
     },
 ];
